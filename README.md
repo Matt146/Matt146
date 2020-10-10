@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matt146</h1>
-<h3 align="center">A developer who's interested in low-level and systems-level programming</h3>
+<h1 align="center">Hi 👋, I'm Matthew</h1>
+<h3 align="center">A developer who's interested in low-level and systems-level programming, along with a variety of other things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt146&label=Profile%20views&color=0e75b6&style=flat" alt="matt146" /> </p>
 
