@@ -3,13 +3,13 @@
 
 <div align="center" stle="text-align: center; display: block; margin-left: auto; margin-right: auto; list-style:none;">
 
-- 🔭 I’m currently working on <b>[ArmOS](https://github.com/Matt146/ArmOS)</b>
+🔭 I’m currently working on <b>[ArmOS](https://github.com/Matt146/ArmOS)</b>
 
-- 🌱 I’m currently learning **osdev, x86**
+🌱 I’m currently learning **osdev, x86**
 
-- 💬 Ask me about **x86, osdev, c, c++, golang, python**
+💬 Ask me about **x86, osdev, c, c++, golang, python**
 
-- 📫 How to reach me **matt146@protonmail.com**
+📫 How to reach me **matt146@protonmail.com**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
