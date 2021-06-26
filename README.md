@@ -23,5 +23,5 @@
 <div align="center" class="about-me" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
 <h1>About Me:</h1>
 <p>I'm a high school student who has been programming for over five years now. I've done <b>web development, cloud, blockchain, game development, and operating system development.</b> Out of all of these, I've enjoyed osdev the most because it is difficult and rewards me with a great sense of accomplishment and has allowed me to understand the finer details of everything above.</p>
-<h3>Contact me at <b/>matt146@protonmail.com</b> or through Discord at <b/>Matt146#2985</b></h3> 
+<h3>Contact me at <b/>matt146@protonmail.com</b></h3> 
 </div>
