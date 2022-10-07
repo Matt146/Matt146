@@ -14,12 +14,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div  align="center" stle="text-align: center; display: block; margin-left: auto; margin-right: auto; list-style: none;">
-  Windows, Mac, Linux
-  Python, C, C++, Go, x86 Assembly, Java, HTML
-  CSS, SQL, Vex V5 C++, ROBOTC, Flask, SDL2
-  Git, Gitlab, Github, Jira, Heroku, AWS
-  QEMU, GNU Make, GCC, NASM
-  Vim, VS Code, Sublime Text
+  Windows, Mac, Linux<br/>
+  Python, C, C++, Go, x86 Assembly, Java, HTML<br/>
+  CSS, SQL, Vex V5 C++, ROBOTC, Flask, SDL2<br/>
+  Git, Gitlab, Github, Jira, Heroku, AWS<br/>
+  QEMU, GNU Make, GCC, NASM<br/>
+  Vim, VS Code, Sublime Text<br/>
 </div>
 
 <div align="center" class="embeds" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
