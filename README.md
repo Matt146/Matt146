@@ -24,7 +24,6 @@
 
 <div align="center" class="embeds" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
   <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt146&show_icons=true&locale=en&layout=compact" alt="matt146" />
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=matt146&show_icons=true&locale=en" alt="matt146" />
 </div>
 
 <div align="center" class="about-me" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
